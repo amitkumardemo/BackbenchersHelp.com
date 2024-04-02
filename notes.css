@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('/My\ Institute.webp');
+    background-color: black;
+    height: 100vh; 
+    background-repeat: no-repeat;
+    background-position: top center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover; 
+}
+
+.notes{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 3vh;
+    
+}
+
+.Heading{
+    margin-top: 3vh;
+    color: black;
+}
+
+.button1{
+    padding: 50px;
+    color:black
+}
+.button2{
+    padding: 50px;
+    color:black
+}
+.button3{
+    padding: 50px;
+    color:black
+}
+.button4{
+    padding: 50px;
+    color:black
+}
+.button5{
+    padding: 50px;
+    color:black
+}
+
+
+class="px-3 py-2 mx-4 lg:px-4 lg:py-3 bg-gray-300 text-gray-900 text-xs font-semibold rounded hover:bg-gray-400">Explore
+Blog</button></div>
+
+
+<div class="flex justify-center lg:justify-start mt-6"><button 
